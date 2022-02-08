@@ -21,7 +21,7 @@
   "homepage": "https://github.com/fredclausen/docker-node-red-ha#readme",
   "dependencies": {
     "node-red": "^2.2.0",
-    "node-red-contrib-actionflows": "^2.0.4",
+    "node-red-contrib-actionflows": "^2.1.2",
     "node-red-contrib-alexa-home-skill": "^0.1.19",
     "node-red-contrib-bigtimer": "^2.7.6",
     "node-red-contrib-cast": "^0.2.17",
